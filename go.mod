@@ -1,4 +1,4 @@
-module https://github.com/pkparadox/learn-go-with-tests
+module github.com/pkparadox/learn-go-with-tests
 
 go 1.13
 
